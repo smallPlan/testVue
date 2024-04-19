@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "Vue.volar", // vue3
+    "Vue.vscode-typescript-vue-plugin", // vue3 ts
+    "formulahendry.auto-rename-tag", // 自动跟随修改标签名
+    "dbaeumer.vscode-eslint", // eslint
+    "esbenp.prettier-vscode", // prettier
+    "bradlc.vscode-tailwindcss", // tailwindcss 提示
+    "cpylua.language-postcss" // postcss高亮插件
+  ]
+}
